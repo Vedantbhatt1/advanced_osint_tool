@@ -1,0 +1,23 @@
+=== OSINT REPORT ===
+
+Domain: lpu.in
+
+--- WHOIS Data ---
+WHOIS lookup failed: module 'whois' has no attribute 'whois'
+
+--- DNS Records ---
+A Records:
+  - 104.26.12.205
+  - 172.67.74.152
+  - 104.26.13.205
+MX Records:
+  - 0 lpu-in.mail.protection.outlook.com.
+NS Records:
+  - jihoon.ns.cloudflare.com.
+  - wren.ns.cloudflare.com.
+
+--- Emails Found ---
+  - Error scraping emails: Invalid URL 'lpu.in': No scheme supplied. Perhaps you meant https://lpu.in?
+
+--- Social Media Results ---
+Social media scraping failed: [WinError 2] The system cannot find the file specified
